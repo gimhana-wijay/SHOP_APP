@@ -1,5 +1,4 @@
-# SHOP_APPp
+# SHOP_APP
 # Mobile App Using Flutter and Dart.
 
-This project is a my starting point for a Flutter application.
-
+This is my second project using flutter & dart.
